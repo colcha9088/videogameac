@@ -16,7 +16,7 @@
 
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-     
+
   </head>
   <body>
 
@@ -34,7 +34,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand text-center" href="<?php echo site_url(); ?>"><h6>VideoGameAC <br> feliz</h6></a>
+      <a class="navbar-brand text-center" href="<?php echo site_url(); ?>"><h6>VideoGameAC</h6></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
