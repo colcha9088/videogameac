@@ -9,7 +9,6 @@
 <div class="row">
 <div class="col-md-12">
   <?php if ($usuarioEditar): ?>
-  <!-- <?php print_r ($usuarioEditar);?> -->
   <form class="" action="<?php echo site_url("usuarios/procesarEditar") ?>" method="post" required>
     <center>
     <input type="hidden" name="id_usu" value="<?php echo $usuarioEditar->id_usu ?>">
