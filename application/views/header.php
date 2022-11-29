@@ -72,8 +72,8 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Usuarios <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url("") ?>">Listado de usuarios</a></li>
-            <li><a href="<?php echo site_url("") ?>">Nuevo usuario</a></li>
+            <li><a href="<?php echo site_url("usuarios/usuario") ?>">Listado de usuarios</a></li>
+            <li><a href="<?php echo site_url("usuarios/nuevo_usuario") ?>">Nuevo usuario</a></li>
           </ul>
         </li>
       </ul>
